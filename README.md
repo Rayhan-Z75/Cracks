@@ -12,7 +12,7 @@
 
 ### Dibaca!!
 
-- Jika akun anda terkena checkpoint author tidak bertanggung jawab karna tools ini tidak menggunakan login token
+- Jika akun anda terkena checkpoint author tidak bertanggung jawab
 - Terimakasih telah menggunakan tools ini
 
 
