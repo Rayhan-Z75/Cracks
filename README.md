@@ -1,2 +1,1 @@
-# Cracks
-Crack By RayhanGanz
+# tujah
