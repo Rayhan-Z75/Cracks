@@ -67,7 +67,7 @@ logo = """
 ╚█████╔╝██║░░██║╚════██║╚█████╔╝██║░╚██╗
 ░╚════╝░╚═╝░░╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚═╝
 \033[1;41;97mAuthor   : Rayhan-Z17/Cracker-Pro
-\033[1;41;97mFacebook : I M Ray Ganz\033[0m
+\033[1;41;97mFacebook : RAyhan GANZ\033[0m
  """
 def tik():
 	titik = ['R ','Ra ','Ray ','Rayh ','Rayha ','Rayhan ','Rayhan. ','Rayhan.. ','Rayhan... ']
