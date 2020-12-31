@@ -6,7 +6,7 @@
 - pip2 install requests
 - pip2 install mechanize
 - pkg install git
-- git clone https://github.com/RayhanZ75/Cracks
+- git clone https://github.com/Rayhan-Z75/Cracks
 - cd Cracks
 - python2 RayDark.py
 
@@ -27,5 +27,5 @@
 
 
 ## Github
-- https://github.com/RayhanZ75
+- https://github.com/Rayhan-Z75
 ```
