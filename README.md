@@ -19,6 +19,7 @@
 • Informasi akun
 • Yahoo Clone
 
+• Logout
 ```
 ### Cara Install
 ```
