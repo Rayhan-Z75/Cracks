@@ -1,31 +1,40 @@
-## RayDark (Crack For Facebook)
 
-## cara pakai 
-- pkg update && pkg upgrade
-- pkg install python2
-- pip2 install requests
-- pip2 install mechanize
-- pkg install git
-- git clone https://github.com/Rayhan-Z75/Cracks
-- cd Cracks
-- python2 RayDark.py
+<h1 align="center">
+    ⚔️Rayhan Ganz🔪
+</h1>
+<h4 align="center">
+  Jangan Lupa Istigfar
 
-### Dibaca!!
+<img src="https://github.com/Rayhan-Z75/CrackFbx/blob/main/logo_Rayhan-Z17.png" />
 
-- Jika akun anda terkena checkpoint author tidak bertanggung jawab
-- Terimakasih telah menggunakan tools ini
-
-
-## Author : Rayhan Ganz
-
-## WhatsApp
-- https://wa.me/6285260979370
-
-
-## Facebook
-- https://www.facebook/RayhanGanzRGZ
-
-
-## Github
-- https://github.com/Rayhan-Z75
+### Fitur
 ```
+- 1. Hack facebook MBF
+- 2. Lihat daftar grup
+- 3. Informasi akun
+- 4. Yahoo clone
+
+
+- Login menggunakan acces token
+
+```
+### Cara Install
+```
+pkg update
+pkg upgrade
+pkg install python2
+pkg install nodejs
+pip2 install requests
+pip2 install mechanize
+pkg install git
+git clone https://github.com/Rayhan-Z75/Cracks
+```
+### Menjalankan Script
+```
+cd Cracks
+python2 RayDark.py
+```
+### SOSIAL MEDIA SAYA
+* [<img alt="Rayhan Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Rayhan-Z75/)<br />
+* [<img alt="Rayhan Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/RayhanGanzRGZ)<br />
+* [<img alt="Rayhan Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285260979370?text=Asalamualaikum+Bang)<br />
