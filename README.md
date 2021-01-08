@@ -5,7 +5,7 @@
 <h4 align="center">
   Jangan Lupa Istigfar
 
-<img src="https://github.com/Rayhan-Z75/CrackFbx/blob/main/logo_Rayhan-Z17.png" />
+<img src="https://github.com/Rayhan-Z75/Cracks/blob/main/logo_Rayhan-Z75.png" />
 
 ### Fitur
 ```
