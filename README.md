@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    ⚔️Rayhan Ganz⚔️
+    ⚔️Script Crack By Rayhan Ganz⚔️
 </h1>
 <h1 align="center">
   ®️Logo Github Rayhan Ganz®️
