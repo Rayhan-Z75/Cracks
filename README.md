@@ -10,7 +10,7 @@
 <h1 align="center">
   ★Tampilan Script Ini★
 
-<img src="https://github.com/Rayhan-Z75/Cracks/blob/main/SS-Script-RayhanGanz.png" />
+<img src="https://github.com/Rayhan-Z75/Cracks/blob/main/TampilanSC.png" />
 
 ### Menu
 ```
