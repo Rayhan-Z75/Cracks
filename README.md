@@ -1,9 +1,9 @@
 
 <h1 align="center">
-    ⚔️Rayhan Ganz🔪
+    ⚔️Rayhan Ganz⚔️
 </h1>
 <h1 align="center">
-  Logo Github Rayhan Ganz
+  ®️Logo Github Rayhan Ganz®️
 
 <img src="https://github.com/Rayhan-Z75/Cracks/blob/main/logo_Rayhan-Z75.png" />
 
