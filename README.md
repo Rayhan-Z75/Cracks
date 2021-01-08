@@ -15,12 +15,12 @@
 • 4. Yahoo clone
 
 
-- Login menggunakan acces token
+• Login menggunakan acces token
 
 ```
 ### Cara Install
 ```
-• pkg update
+* pkg update
 • pkg upgrade
 • pkg install python2
 • pkg install nodejs
