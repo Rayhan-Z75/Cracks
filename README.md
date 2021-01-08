@@ -9,10 +9,10 @@
 
 ### Fitur
 ```
-- 1. Hack facebook MBF
-- 2. Lihat daftar grup
-- 3. Informasi akun
-- 4. Yahoo clone
+• 1. Hack facebook MBF
+• 2. Lihat daftar grup
+• 3. Informasi akun
+• 4. Yahoo clone
 
 
 - Login menggunakan acces token
@@ -20,19 +20,19 @@
 ```
 ### Cara Install
 ```
-- pkg update
-- pkg upgrade
-- pkg install python2
-- pkg install nodejs
-- pip2 install requests
-- pip2 install mechanize
-- pkg install git
-- git clone https://github.com/Rayhan-Z75/Cracks
+• pkg update
+• pkg upgrade
+• pkg install python2
+• pkg install nodejs
+• pip2 install requests
+• pip2 install mechanize
+• pkg install git
+• git clone https://github.com/Rayhan-Z75/Cracks
 ```
 ### Menjalankan Script
 ```
-- cd Cracks
-- python2 RayDark.py
+• cd Cracks
+• python2 RayDark.py
 ```
 ### SOSIAL MEDIA SAYA
 * [<img alt="Rayhan Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Rayhan-Z75/)<br />
