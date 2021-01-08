@@ -3,7 +3,7 @@
     ⚔️Rayhan Ganz🔪
 </h1>
 <h4 align="center">
-  Jangan Lupa Istigfar
+  Logo Github Rayhan Ganz
 
 <img src="https://github.com/Rayhan-Z75/Cracks/blob/main/logo_Rayhan-Z75.png" />
 
