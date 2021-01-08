@@ -20,7 +20,7 @@
 ```
 ### Cara Install
 ```
-* pkg update
+• pkg update
 • pkg upgrade
 • pkg install python2
 • pkg install nodejs
