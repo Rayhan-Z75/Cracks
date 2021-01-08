@@ -1,21 +1,23 @@
 
 <h1 align="center">
-    ⚔️Script Crack By Rayhan Ganz⚔️
+    ⚔️Script Bot Facebook By Rayhan Ganz⚔️
 </h1>
 <h1 align="center">
   ®️Logo Github Rayhan Ganz®️
 
 <img src="https://github.com/Rayhan-Z75/Cracks/blob/main/Logo_Rayhan-Z75.png" />
+</h1>
+<h1 align="center">
+  ★Tampilan Script Ini★
 
-### Fitur
+<img src="https://github.com/Rayhan-Z75/Cracks/blob/main/SS-Script-RayhanGanz.png" />
+
+### Menu
 ```
-• 1. Hack facebook MBF
-• 2. Lihat daftar grup
-• 3. Informasi akun
-• 4. Yahoo clone
-
-
-• Login menggunakan acces token
+• Crack MBF
+• Lihat daftar grup
+• Informasi akun
+• Yahoo Clone
 
 ```
 ### Cara Install
@@ -23,7 +25,6 @@
 • pkg update
 • pkg upgrade
 • pkg install python2
-• pkg install nodejs
 • pip2 install requests
 • pip2 install mechanize
 • pkg install git
@@ -33,6 +34,7 @@
 ```
 • cd Cracks
 • python2 RayDark.py
+• Login Menggunakan Acces Token
 ```
 ### SOSIAL MEDIA SAYA
 * [<img alt="Rayhan Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Rayhan-Z75/)<br />
