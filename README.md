@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    ⚔️Script Bot Facebook By Rayhan Ganz⚔️
+    ⚔️Script Crack Facebook By Rayhan Ganz⚔️
 </h1>
 <h1 align="center">
   ®️Logo Github Rayhan Ganz®️
