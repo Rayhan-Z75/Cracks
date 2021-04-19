@@ -33,6 +33,7 @@
 • cd Cracks
 • python2 RayDark.py
 • Login Menggunakan Acces Token
+• Info Selanjutnya Hubungi WA
 ```
 ### SOSIAL MEDIA SAYA
 * [<img alt="Rayhan Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Rayhan-Z75/)<br />
