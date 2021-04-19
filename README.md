@@ -3,7 +3,7 @@
     Script By Rayhan Zuckerberg
 </h1>
 <h1 align="center">
-  ★Tampilan Script Ini★
+  ★Tampilan Script★
 
 <img src="https://github.com/Rayhan-Z75/Cracks/blob/main/TampilanSC.png" />
 
