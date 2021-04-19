@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    ⚔️Script Crack Facebook By Rayhan Ganz⚔️
+    Script By Rayhan Zuckerberg
 </h1>
 <h1 align="center">
   ★Tampilan Script Ini★
