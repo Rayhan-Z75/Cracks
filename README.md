@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    𐂂Script By Rayhan Zuckerbergシ︎
+    𐂂Script By Rayhan Zuckerberg𓅓
 </h1>
 <h1 align="center">
   ★Tampilan Script★
