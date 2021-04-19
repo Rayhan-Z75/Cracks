@@ -3,11 +3,6 @@
     ⚔️Script Crack Facebook By Rayhan Ganz⚔️
 </h1>
 <h1 align="center">
-  ®️Logo Github Rayhan Ganz®️
-
-<img src="https://github.com/Rayhan-Z75/Cracks/blob/main/Logo_Rayhan-Z75.png" />
-</h1>
-<h1 align="center">
   ★Tampilan Script Ini★
 
 <img src="https://github.com/Rayhan-Z75/Cracks/blob/main/TampilanSC.png" />
